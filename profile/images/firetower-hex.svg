@@ -1,0 +1,33 @@
+<svg width="434" height="500" viewBox="0 0 434 500" xmlns="http://www.w3.org/2000/svg">
+        <defs><clipPath id="h2f"><polygon points="217,0 434,125 434,375 217,500 0,375 0,125"></polygon></clipPath></defs>
+        <g clip-path="url(#h2f)">
+          <rect width="434" height="500" fill="#FAF8F4"></rect>
+          <g fill="none" stroke="#0F0E0D" stroke-width="4" stroke-opacity="0.32">
+            <path d="M-10 152 C 90 110, 150 188, 240 150 C 320 116, 380 170, 444 142"></path>
+            <path d="M-10 196 C 90 154, 150 232, 240 194 C 320 160, 380 214, 444 186"></path>
+            <path d="M-10 240 C 90 198, 150 276, 240 238 C 320 204, 380 258, 444 230"></path>
+            <path d="M-10 328 C 90 286, 150 364, 240 326 C 320 292, 380 346, 444 318"></path>
+            <path d="M-10 372 C 90 330, 150 408, 240 370 C 320 336, 380 390, 444 362"></path>
+          </g>
+          <path d="M-10 284 C 90 242, 150 320, 240 282 C 320 248, 380 302, 444 274" fill="none" stroke="#E4531C" stroke-width="11" stroke-dasharray="46 22"></path>
+          <g stroke="#0F0E0D" stroke-width="9" stroke-linecap="round" fill="none">
+            <line x1="192" y1="192" x2="160" y2="336"></line>
+            <line x1="242" y1="192" x2="274" y2="336"></line>
+            <line x1="185" y1="232" x2="249" y2="232"></line>
+            <line x1="176" y1="278" x2="258" y2="278"></line>
+            <line x1="167" y1="324" x2="267" y2="324"></line>
+          </g>
+          <g stroke="#0F0E0D" stroke-opacity="0.45" stroke-width="5">
+            <line x1="185" y1="232" x2="258" y2="278"></line>
+            <line x1="249" y1="232" x2="176" y2="278"></line>
+            <line x1="176" y1="278" x2="267" y2="324"></line>
+            <line x1="258" y1="278" x2="167" y2="324"></line>
+          </g>
+          <rect x="170" y="164" width="94" height="30" fill="#E4531C"></rect>
+          <rect x="158" y="188" width="118" height="9" fill="#0F0E0D"></rect>
+          <polygon points="158,164 217,130 276,164" fill="#0F0E0D"></polygon>
+          <rect x="214" y="112" width="6" height="20" fill="#0F0E0D"></rect>
+          <text x="217" y="404" text-anchor="middle" font-size="29" font-weight="700" letter-spacing="-0.3" fill="#0F0E0D" font-family="'Space Grotesk', Helvetica, sans-serif">firetower</text>
+          <polygon points="217,0 434,125 434,375 217,500 0,375 0,125" fill="none" stroke="#0F0E0D" stroke-width="16"></polygon>
+        </g>
+      </svg>
